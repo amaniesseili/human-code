@@ -1,0 +1,54 @@
+
+.body{
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+
+}
+.container{
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+footer{
+    margin: auto;
+    max-width: 1000px;
+    background-color: #ccb5f0;
+    height: 70px;
+  
+}
+
+.content{
+    margin: 20px;
+    flex-grow: 1;
+    overflow: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+
+
+}
+
+.container{
+    background-color: #fbf9be;
+    margin-top: -20px;
+    margin-bottom: -20px;
+   
+}
+.content{
+    background-color: #baf9f9 ;
+}
+
+h4{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.ama{
+    margin: auto;
+    max-width: 1000px;
+    background-color: #ccb5f0;
+    height: 70px;
+}
